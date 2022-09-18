@@ -1,7 +1,7 @@
 # Heroku Deployment
 ## Heroku is PaaS Architecture
-Along with your application files you need to take care of below mentioned steps:
-[^2]
+Along with your application files you need to take care of below mentioned steps:[^2]
+
 1.You need all the below metioned files for deployment:
   a. requirements.txt
   b. Procfile
